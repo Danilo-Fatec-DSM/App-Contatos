@@ -76,7 +76,7 @@ Pré-requisitos: Node.js instalado e o app Expo Go no celular (Android ou iOS).
 
 ```bash
 npm install
-npx expo start
+npx expo start --tunnel
 ```
 
 Escaneie o QR code exibido no terminal com o Expo Go. O celular e o computador precisam estar na mesma rede.
